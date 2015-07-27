@@ -1,5 +1,5 @@
 {
-    "name": "firith/FacebookServiceProvider",
+    "name": "firith/facebook-service-provider",
     "description": "Facebook API and connect integration into your Silex applications",
     "license": "MIT",
     "authors": [
